@@ -14,7 +14,6 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "prototype-template"
-include(":app")
 include(":prototype")
 include(":sample:compose")
 include(":sample:xml-based")
